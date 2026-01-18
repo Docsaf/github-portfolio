@@ -23,11 +23,11 @@ D.Sc. in Cybersecurity | Marymount University
 M.S. in Information Assurance and Security
 B.S. in Computer Science | University of Rhode Island
 
-With over 15+ years of experience leading secure cloud migrations and threat detection programs for critical infrastructure and government sectors, I bring a unique "builder-defender" perspective. I contributed to the security due diligence for Salesforce's $25B acquisition of Slack and achieved SOC 2 readiness that unlocked major healthcare partnerships.
+With over 15+ years of experience leading secure cloud migrations and threat detection programs for critical infrastructure and government sectors, I bring a unique "builder-defender" perspective. I've contributed to the security due diligence for Salesforce's $25B acquisition of Slack and achieved SOC 2 readiness that unlocked major healthcare partnerships for telehealth companies.
 
 Currently, I serve as an Adjunct Professor at Marymount University, where I teach the next generation of cybersecurity professionals to think like architects and strategists.
 
-**Focus Areas:** Corporate Cybersecurity Strategy, Enterprise Architecture & Networks, Cloud Security, GRC (Governance, Risk & Compliance), Infrastructure as Code (IaC).
+**Focus Areas:**Corporate Cybersecurity Strategy, Enterprise Architecture & Networks, Cloud Security, GRC (Governance, Risk & Compliance), Infrastructure as Code (IaC).
 
 **Teaching Philosophy:** "The textbook is a lie. The real world is messy. We build before we break."
 
