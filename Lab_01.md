@@ -21,3 +21,4 @@ I learned that **Configuration Management** is critical. In the future, automate
 
 ## 📸 Proof of Work
 *(We will add a screenshot here in the next step)*
+![My Terminal Success](terminal.png)
